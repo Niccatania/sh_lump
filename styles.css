@@ -1,0 +1,23 @@
+body{
+
+}
+.response{
+    width: 50%;
+    height: auto;
+}
+
+.parallax {
+    background-image: url("rtyuuio.png");
+    min-height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+  }
+
+  .card {
+   
+    margin:  auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
