@@ -7,7 +7,7 @@ body{
 }
 
 .parallax {
-    background-image: url("rtyuuio.png");
+    background-image: url("./assets/images/rtyuuio.png");
     min-height: 1000px;
     background-attachment: fixed;
     background-position: center;
